@@ -1,4 +1,9 @@
 # ili9488
+
+Installation of aliexpress/alibaba/ebay 3,95 lcd screen (smartfriends) on Raspbian Jessie.
+
+http://fr.aliexpress.com/item/3-95-Inch-LCD-Screen-For-Raspberry-Pi-B/32497237383.html?spm=2114.13010208.99999999.329.PP97UE
+
 ## sources
 http://www.ittgroup.ee/et/ekraanid-ja-naidikud/626-lcd-tft-ekraan-395-480x320-raspberry-pi-le.html
 
